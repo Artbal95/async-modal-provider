@@ -1,0 +1,11 @@
+### VisualStudioCode ###
+.vscode
+
+# Local History for Visual Studio Code
+.history/
+
+### WebStorm ###
+.idea
+
+## Node_Modules
+node_modules
